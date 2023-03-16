@@ -1,0 +1,3 @@
+[submodule "input-data/sample-data"]
+	path = input-data/sample-data
+	url = https://github.com/rizqinugroho/sample-data.git
